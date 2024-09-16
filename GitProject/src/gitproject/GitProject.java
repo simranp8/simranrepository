@@ -16,9 +16,8 @@ public class GitProject {
     public static void main(String[] args) {
         // TODO code application logic here
         //comment
-        System.out.println("my name ");
-        System.out.println("Made a change");
-        //Again made a change;(
+       //this is sim branch
+        
     }
     
 }
