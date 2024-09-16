@@ -17,6 +17,7 @@ public class GitProject {
         // TODO code application logic here
         //comment
         System.out.println("my name ");
+        System.out.println("Made a change");
     }
     
 }
